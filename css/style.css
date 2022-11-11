@@ -1,0 +1,23 @@
+* {
+    background: white;
+}
+body{
+    min-height: 100vh;
+}
+
+.main-container{
+    position: absolute;
+    height: 50vh;
+    top: 25%;
+    background: green;
+}
+.main-container>h1{
+    margin-left: 20%;
+
+}
+.result{
+    position: absolute;
+    height: 80%;
+    width: 40%;
+    background: red;
+}
